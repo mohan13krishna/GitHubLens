@@ -32,20 +32,6 @@ GitHubLens is a powerful yet elegantly simple web application that allows you to
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios">
 </div>
 
-## 📱 Preview
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><strong>Desktop View</strong></td>
-      <td align="center"><strong>Mobile View</strong></td>
-    </tr>
-    <tr>
-      <td><img src="https://i.imgur.com/placeholder-desktop.png" alt="Desktop Preview" width="450px"></td>
-      <td><img src="https://i.imgur.com/placeholder-mobile.png" alt="Mobile Preview" width="200px"></td>
-    </tr>
-  </table>
-</div>
 
 ## 🔧 Installation & Usage
 
