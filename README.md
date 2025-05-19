@@ -4,7 +4,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/mohan13krishna/GitHubLens)
 
 <div align="center">
-  <img src="https://i.imgur.com/placeholder.png" alt="GitHubLens Preview" width="800px">
   <p><em>Bringing GitHub profiles into perfect focus, instantly.</em></p>
 </div>
 
