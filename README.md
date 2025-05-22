@@ -5,7 +5,7 @@
 </p>      
             
 ---                        
-          
+           
 ## 🌟 Overview   
 GitHubLens is a lightweight yet powerful web application that allows you to search for any GitHub user and instantly view their profile information. With a clean, responsive design and real-time data fetching, GitHubLens makes exploring the GitHub community faster and more enjoyable than ever.
  
