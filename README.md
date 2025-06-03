@@ -1,4 +1,4 @@
-# 🔍 GitHubLens: GitHub Profile Explorer 👨‍💻
+# 🔍 GitHubLens: GitHub Profile Explorer 👨‍💻 
 
 <p align="center">  
   <b>Seamlessly discover and explore GitHub user profiles with a sleek, intuitive interface</b> 
